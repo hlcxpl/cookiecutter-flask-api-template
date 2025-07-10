@@ -30,3 +30,6 @@ pip install -r requirements.txt
 
 echo "✅ Entorno virtual activado y dependencias instaladas correctamente."
 pip freeze > requirements.txt
+
+#crear los archivos test
+pytest --cov-report html --cov=app tests/
