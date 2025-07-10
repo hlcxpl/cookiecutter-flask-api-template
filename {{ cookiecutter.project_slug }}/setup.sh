@@ -29,3 +29,4 @@ pip install --upgrade pip
 pip install -r requirements.txt
 
 echo "✅ Entorno virtual activado y dependencias instaladas correctamente."
+pip freeze > requirements.txt
