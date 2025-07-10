@@ -1,0 +1,5 @@
+{
+  "project_name": "Flask API Project",
+  "project_slug": "flask_api_project",
+  "description": "A Flask API with Pytest and test coverage ready to go."
+}
