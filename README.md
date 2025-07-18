@@ -1,13 +1,16 @@
-
 # 🍪 Cookiecutter Flask API Template
 
 Una plantilla flexible y productiva para crear APIs RESTful con Flask. Ideal para desarrolladores que desean acelerar el desarrollo backend usando buenas prácticas, herramientas modernas y un entorno DevOps-ready desde el inicio.
+
+<div align="center">
 
 [![Made with Cookiecutter](https://img.shields.io/badge/built%20with-cookiecutter-ff69b4.svg)](https://github.com/cookiecutter/cookiecutter)
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-%20lightblue.svg)](https://flask.palletsprojects.com/)
 [![Tested with Pytest](https://img.shields.io/badge/tested%20with-pytest-yellow.svg)](https://docs.pytest.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+</div>
 
 ---
 
@@ -100,12 +103,12 @@ pytest --cov=app tests/
 
 ---
 
-## 🛡 Licencia
+## 📜 Licencia
 
 Este proyecto está licenciado bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
 ---
 
-## 🧠 Autor
+## 👨‍💻 Autor
 
 Desarrollado por [Luis Sanchez](https://github.com/hlcxpl)
